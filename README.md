@@ -1,4 +1,4 @@
-![nbody](https://gitea.com/CrazyKoustik/nbody/raw/branch/main/title.png)
+![nbody](https://github.com/CrazyKoustik/nbody/blob/main/title.png)
 # nbody
 
 ## Presentation
@@ -16,9 +16,7 @@ Implementation of simple n-body gravitation simulation in "pure" python :
 The Pillow module is used to build images for visualisation.
 You can install Pillow with pip :
 
-```
-pip install Pillow
-```
+```pip install Pillow```
 
 ### ffmpeg
 
