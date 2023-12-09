@@ -16,7 +16,8 @@ Implementation of simple n-body gravitation simulation in "pure" python :
 The Pillow module is used to build images for visualisation.
 You can install Pillow with pip :
 
-```pip install Pillow```
+```pip install Pillow
+```
 
 ### ffmpeg
 
