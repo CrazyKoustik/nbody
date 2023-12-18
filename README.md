@@ -1,5 +1,4 @@
 ![nbody](https://github.com/CrazyKoustik/nbody/blob/main/title.png)
-# nbody
 
 ## Presentation
 
